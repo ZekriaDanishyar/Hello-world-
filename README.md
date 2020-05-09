@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # How to run the Test #
 
 **Prerequisite**
@@ -28,3 +29,12 @@ Project is ready to run. Execute following commands and enjoy the automatic web-
 - Run `mvn test`
 
 You can find the test result in `E2EUserJourney\target\surefire-reports\index.html`.
+=======
+# Hello-world-
+Hi guys! I am test automation engineer. I love what i have been doing so far!!
+
+public void WebDriver (){
+return driver;
+
+}
+>>>>>>> branch 'TestMasterTest' of https://github.com/ZekriaDanishyar/Hello-world-
